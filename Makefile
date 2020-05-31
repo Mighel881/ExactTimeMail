@@ -1,3 +1,5 @@
+ARCHS = arm64 arm64e
+
 INSTALL_TARGET_PROCESSES = MobileMail
 
 include $(THEOS)/makefiles/common.mk
