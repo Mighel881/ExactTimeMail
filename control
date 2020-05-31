@@ -1,0 +1,9 @@
+Package: com.gilshahar7.exacttimemail
+Name: ExactTimeMail
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Adds an exact time to the mail cells in the stock Mail app.
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Section: Tweaks
